@@ -70,7 +70,7 @@ public class AddressBook {
 				isTerminate = true;
 				break;
 			default:
-				System.out.println("please select valid option");
+				System.out.println("please select valid ooption");
 				break;
 			}
 		}
