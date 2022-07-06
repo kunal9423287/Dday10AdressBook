@@ -145,7 +145,7 @@ public class AddressBook {
 			deletePerson();
 		}
 		list.remove(EmailId);
-		System.out.println("Deleted Successesfully.");
+		System.out.println("Deleted Suuccessesfully.");
 	}
 	
 	
